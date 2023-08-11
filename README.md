@@ -33,7 +33,7 @@ Through this EDA, we aim to unveil insights into the passengers' profiles, socio
 
 As we explore this dataset, we pay homage to the passengers who were part of this significant event in history and whose experiences continue to captivate our curiosity and empathy.
 
-# Skills  
+# Technologies Used
 * Python
 * Numpy
 * Pandas
