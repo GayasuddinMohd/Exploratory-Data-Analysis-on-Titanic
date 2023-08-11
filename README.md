@@ -10,6 +10,21 @@ This is the in depth Exploratory Data Analysis of the Titanic Dataset , with bea
 This repository is about EDA performed on the Titanic.
    - It has a python notebook where all the coding has been done.
    - It also has the relevant datasets and files used for this analysis.
+     
+# Technologies Used
+* Python
+* Numpy
+* Pandas
+* Matplotlib
+* Seaborn
+* Plotly
+* Jupyter Notebok
+* Kaggle
+* Statistics
+
+# Dataset
+* You can download the dataset from the kaggle website.
+* https://www.kaggle.com/datasets/pankajvermacool/titanic-traincsv?select=titanic_train.csv
 
 # Summary
 * From the above EDA, we can say that there were more male passengers on the Titanic as compared to the female passengers.
@@ -32,24 +47,6 @@ This repository is about EDA performed on the Titanic.
 Through this EDA, we aim to unveil insights into the passengers' profiles, socio-economic dynamics, and factors that influenced survival rates aboard the Titanic. By understanding these patterns, we can gain a deeper appreciation for the historical context and the human stories embedded within the tragic events of April 15, 1912.
 
 As we explore this dataset, we pay homage to the passengers who were part of this significant event in history and whose experiences continue to captivate our curiosity and empathy.
-
-# Technologies Used
-* Python
-* Numpy
-* Pandas
-* Matplotlib
-* Seaborn
-* Plotly
-* Jupyter Notebok
-* Kaggle
-* Statistics
-
-# Dataset
-* You can download the dataset from the kaggle website.
-* https://www.kaggle.com/datasets/pankajvermacool/titanic-traincsv?select=titanic_train.csv
-
-
-
 
 
 
