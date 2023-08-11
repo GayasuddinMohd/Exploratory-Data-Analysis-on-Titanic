@@ -1,7 +1,7 @@
+![Image Alt Text](https://github.com/GayasuddinMohd/Exploratory-Data-Analysis-on-Titanic-Dataset/blob/main/Titanic%20Image.jpg?raw=true)
+
 # Titanic
 RMS Titanic was a British passenger liner, operated by the White Star Line, that sank in the North Atlantic Ocean on 15 April 1912 after striking an iceberg during her maiden voyage from Southampton, England to New York City, United States. Of the estimated 2,224 passengers and crew aboard, more than 1,500 died, making it the deadliest sinking of a single ship up to that time.[a] It remains the deadliest peacetime sinking of an ocean liner or cruise ship.[4] The disaster drew public attention, provided foundational material for the disaster film genre, and has inspired many artistic works.
-
-![Image Alt Text](https://github.com/GayasuddinMohd/Exploratory-Data-Analysis-on-Titanic-Dataset/blob/main/Titanic%20Image.jpg?raw=true)
 
 # Exploratory Data Analysis on Titanic
 This is the in depth Exploratory Data Analysis of the Titanic Dataset , with beautiful and simple visualizations plots which will helps to understand the insights easily.The Titanic dataset is a classic and widely studied dataset that provides insights into the passengers aboard the ill-fated RMS Titanic's maiden voyage. In this exploratory data analysis (EDA), we will delve into the dataset to uncover patterns, trends, and narratives related to the passengers' demographics, ticket information, cabin classes, and survival rates.
