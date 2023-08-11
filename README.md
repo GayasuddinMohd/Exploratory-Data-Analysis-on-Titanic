@@ -25,8 +25,25 @@ This repository is about EDA performed on the Titanic.
 * From the above EDA, we can say that the older passengers has very less chances of survival as compared to the younger passengers.
 * From the above EDA, we can say that, the passengers who have younger in age and of class 1 has greater chances of survival than that of who have older age and of class 3.
 
+# Conclusion
+Through this EDA, we aim to unveil insights into the passengers' profiles, socio-economic dynamics, and factors that influenced survival rates aboard the Titanic. By understanding these patterns, we can gain a deeper appreciation for the historical context and the human stories embedded within the tragic events of April 15, 1912.
 
+As we explore this dataset, we pay homage to the passengers who were part of this significant event in history and whose experiences continue to captivate our curiosity and empathy.
 
+# Skills  
+* Python
+* Numpy
+* Pandas
+* Matplotlib
+* Seaborn
+* Plotly
+* Jupyter Notebok
+* Kaggle
+* Statistics
+
+# Dataset
+* You can download the dataset from the kaggle website.
+* https://www.kaggle.com/datasets/pankajvermacool/titanic-traincsv?select=titanic_train.csv
 
 
 
